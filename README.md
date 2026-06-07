@@ -1,7 +1,7 @@
 <h2>Welcome to my GitHub Page!</h2>
-<p>Hi my name is Carlos Andrés Díaz Rivera. I am a undergraduate marketing student at the University of Puerto Rico at Mayagüez Campus. Since 2016 I have been coding for web development and strong backends. At the moment I intend to build a suite of web services to give tools to work with the new web technologies. 
+<p>Self-taught Full-Stack Developer and IT Professional specializing in React, Node.js, Laravel, Proxmox, and Docker. I blend hands-on infrastructure experience with a strong background in operations leadership to build practical software and internal tools that solve real-world logistical problems.</p>
   
-Profesionally I am giving webmaster services to UPRM for various departments.
+Profesionally I am gave webmaster services to UPRM for various departments.
 <ul>
   <li><a target="_blank" href="https://www.uprm.edu/bandayorquesta">Banda y Orquesta (Web)</a></li>
   <li><a target="_blank" href="https://www.uprm.edu/ohl">Oral History Lab at UPRM (Web - In Development)</a></li>
